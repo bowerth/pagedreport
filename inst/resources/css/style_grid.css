@@ -369,11 +369,11 @@ h2.date {
 
 /* normal headers */
 h1 {
-  font-size: 40pt;
+  font-size: 20pt;
 }
 
 h2 {
-  font-size: 24pt;
+  font-size: 16pt;
 }
 
 /* --------------------- CSS Fragmentation --------------------------- */
