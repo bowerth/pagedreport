@@ -81,7 +81,7 @@ h1.title {
       background-size: cover;
       margin-bottom: 650%;
       margin-left: 30%;
-      margin-right: -50%;
+      margin-right: -10%;
     }
 
     @bottom-left {
@@ -115,35 +115,39 @@ h1.title {
 }
 
 .pagedjs_left_page p {
-  margin-left: 15%;
+  margin-left: 10%;
+}
+
+.pagedjs_left_page pre {
+  margin-left: 10%;
 }
 
 .pagedjs_left_page ul {
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 .pagedjs_left_page ol {
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 .pagedjs_left_page h1 {
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 .pagedjs_left_page h2 {
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 .pagedjs_left_page h3 {
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 .pagedjs_left_page h4 {
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 .pagedjs_left_page #refs {
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 /* right page */
@@ -157,7 +161,7 @@ h1.title {
       background-size: cover;
       margin-bottom: 650%;
       margin-right: 30%;
-      margin-left: -50%;
+      margin-left: -10%;
     }
 
     /* numbering */
@@ -192,35 +196,39 @@ h1.title {
 }
 
 .pagedjs_right_page p {
-  margin-right: 15%;
+  margin-right: 10%;
+}
+
+.pagedjs_left_page pre {
+  margin-right: 10%;
 }
 
 .pagedjs_right_page ul {
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 .pagedjs_right_page ol {
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 .pagedjs_right_page h1 {
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 .pagedjs_right_page h2 {
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 .pagedjs_right_page h3 {
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 .pagedjs_right_page h4 {
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 .pagedjs_right_page #refs {
-  margin-right: 15%;
+  margin-right: 10%;
 }
 
 /* ------------------------ Front Cover --------------------- */
